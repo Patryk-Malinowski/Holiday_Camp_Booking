@@ -21,9 +21,3 @@ This Python program facilitates the management of bookings and extras for Long I
 4. **File Handling:**
    - Bookings and extra services are stored and updated in external text files.
    - Each booking has a unique ID, and details are saved in individual files.
-
-## Usage
-
-1. **Run the Program:**
-   ```bash
-   python main.py
